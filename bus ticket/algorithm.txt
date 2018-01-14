@@ -1,0 +1,6 @@
+                                               Algorithm 
+Step: 1 declaration First I had declared the entire variable in inside the structure statement.
+Step: 2 code from the user for calculate amount of the bus ticket 
+Step: 3 initialize another variable to calculate formula by variable in the structure
+Step: 4 According to code print the corresponding amount with distance traveled by the passengers
+
